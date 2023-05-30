@@ -1,0 +1,1 @@
+[{"id":4,"title":"Cerveza Heineken","description":"Cerveza","price":550,"thumbnail":"imagen4","code":"cerveza2","stock":600},{"title":"Fernet Branca","description":"Fernet","price":2300,"thumbnail":"imagen1","code":"fernet1","stock":100,"id":1},{"title":"Cerveza Stella Artois","description":"Cerveza","price":450,"thumbnail":"imagen3","code":"cerveza1","stock":200,"id":3}]
